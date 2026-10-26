@@ -31,6 +31,9 @@ Instantly sends recovery links via WhatsApp or SMS.
 Offers full transparency for finance teams by logging every diagnostic step, AI prompt decision, and API action in structured database records.
 
 ---
+### RevAgent financial monitoring dashboard and audit trace view.
+<img width="1013" height="513" alt="image" src="https://github.com/user-attachments/assets/95eb02ca-18fb-409e-bda8-995fe049ff04" />
+<img width="1011" height="459" alt="image" src="https://github.com/user-attachments/assets/b561b032-c7f0-4787-addf-4b15b8727ebd" />
 
 # Tech Stack
 
